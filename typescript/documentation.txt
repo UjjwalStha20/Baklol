@@ -1,0 +1,4 @@
+-> to run typescript file directly , steps to be followed : 
+      -> npm init -y
+      -> npm install ts-node typescript --save-dev
+      -> npx ts-node [filename].ts
