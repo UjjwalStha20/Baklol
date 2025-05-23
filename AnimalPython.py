@@ -37,4 +37,3 @@ tiger.sound()
 cow = DomesticAnimal('cow')
 cow.live()
 cow.sound()
-
