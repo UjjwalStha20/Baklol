@@ -25,7 +25,7 @@ class Car(Vehicle):
     def drive(self):
         print("Driving the car on road.")
 
-class Bike(Vehicle):
+class Bike(Vehicle):    
     def __init__(self, make, model, year, has_sidecar):
         super().__init__(make, model, year)
         self.has_sidecar = has_sidecar
